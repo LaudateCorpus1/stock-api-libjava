@@ -21,7 +21,7 @@
         <jacoco.version>0.7.9</jacoco.version>
         <powermock.version>1.6.6</powermock.version>
         <httpclient.version>4.5.2</httpclient.version>
-        <json.version>20160810</json.version>
+        <json.version>20230227</json.version>
         <httpmime.version>4.5.2</httpmime.version>
         <jacksondatabind.version>[2.9.8,)</jacksondatabind.version>
         <cloning.version>1.9.10</cloning.version>
